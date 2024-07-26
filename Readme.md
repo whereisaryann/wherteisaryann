@@ -1,11 +1,13 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 <h1 align="center">Hi 👋, I'm Aryan ojha</h1>
-<h3 align="center">A passionate I.T  Engineer from Bhopal,India</h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<h1 align="center">A passionate I.T  Engineer from Bhopal,India</h1>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 - 🔭 I’m currently Learning **Languages**
 - 📫 How to reach me **aryanojha001@gmail.com**
 
-- <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+- <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" align="right">
 <br><br>
 
 - 👨‍💻 All of my projects are available on **https://github.com/whereisaryann**
