@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available on **https://github.com/whereisaryann**
 
-- ⚡ Fun fact **I am Boring**
+- ⚡ Fun fact **I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
